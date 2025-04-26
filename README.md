@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="80" height="80" />
+      <img src="https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000" alt="PostgreSQL" width="80" height="80" />
       <br>
     </td>
     <td align="center" width="96">
@@ -84,7 +84,7 @@
       <br>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="80" height="80" />
+      <img src="https://github.com/user-attachments/assets/e29f9863-0fba-4749-822a-d43b4a62cb70" alt="Linux" width="80" height="80" />
       <br>
     </td>
     <td align="center" width="96">
