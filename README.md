@@ -109,6 +109,10 @@
       <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="VS Code" width="80" height="80" />
       <br>
     </td>
+    <td align="center" width="96">
+      <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Shell Script" width="80" height="80" title="Shell Script" />
+      <br>
+    </td>
   </tr>
 </table>
 
