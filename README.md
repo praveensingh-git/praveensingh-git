@@ -16,9 +16,11 @@
 <a href="https://reddit.com/user/praveensingh-reddit//" title='Follow me on reddit'>
 <img src="https://img.icons8.com/?size=100&id=kshUdu5u4FCX&format=png&color=000000" width="80" height="80"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:praveensuryavanshi.dev@gmail.com" title="Mail to me"></a>
-<img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000" width="80" height="80"></a>
+<a href="mailto:praveensuryavanshi.dev@gmail.com" title="Mail to me">
+  <img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000" width="80" height="80" alt="Gmail Icon">
+</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 </div>
 
