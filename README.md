@@ -1,8 +1,5 @@
  # <p align="center" style="font-family: 'Cal Sans', sans-serif; font-size: 40; font-weight: bold;"> Hi, I'm PRAVEEN SINGH </p>
 
-
-
-
 <div align="justify">
 <a href="https://www.instagram.com/praveensingh.suryavanshi/" title='Follow me on Instagram'>
 <img src="https://img.icons8.com/?size=100&id=5eT5OnLluNOx&format=png&color=000000" width="80" height="80"></a>
@@ -19,7 +16,7 @@
 <a href="https://reddit.com/user/praveensingh-reddit//" title='Follow me on reddit'>
 <img src="https://img.icons8.com/?size=100&id=kshUdu5u4FCX&format=png&color=000000" width="80" height="80"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://gmail.com/praveensuryavanshi.dev@gmail.com/" title='mail to me'>
+<a href="mailto:praveensuryavanshi.dev@gmail.com" title="Mail to me">Mail to me</a>
 <img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000" width="80" height="80"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
