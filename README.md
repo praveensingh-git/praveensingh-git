@@ -1,4 +1,4 @@
- # <p align="center" style="font-family: 'Cal Sans', sans-serif; font-size: 40; font-weight: bold;"> Hi, I'm PRAVEEN SINGH </p>
+ # <p align="center" style="font-family: 'Cal Sans', sans-serif; font-size: 40; font-weight: bold;"> Hi, I'm _PRAVEEN SINGH_ </p>
 
 <div align="justify">
 <a href="https://www.instagram.com/praveensingh.suryavanshi/" title='Follow me on Instagram'>
