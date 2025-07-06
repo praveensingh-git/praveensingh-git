@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" width="60" height="80" />
+      <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" width="100" height="120" />
       <br>
     </td>
     <td align="center" width="96">
@@ -66,7 +66,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" alt="CSS" width="80" height="80" />
-      <br>CSS
+      <br>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="80" height="80" />
@@ -110,6 +110,10 @@
     </td>
     <td align="center" width="96">
       <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Shell Script" width="80" height="80" title="Shell Script" />
+      <br>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/448266/aws.svg" alt="AWS" width="80" height="80" title="AWS" />
       <br>
     </td>
   </tr>
