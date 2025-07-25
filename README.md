@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" width="100" height="120" />
+      <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" width="90" height="120" />
       <br>
     </td>
     <td align="center" width="96">
@@ -117,6 +117,30 @@
       <br>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/373553/docker.svg" alt="docker" width="80" height="80" title="Docker" />
+      <br>
+    </td>
+       <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" alt="kubernetes" width="80" height="80" title="Kubernetes" />
+      <br>
+       </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/373699/jenkins.svg" alt="jenkins" width="80" height="80" title="Jenkins" />
+      <br>
+       </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/373718/jupyter.svg" alt="jupyter" width="80" height="80" title="Jupyter-Notebook" />
+      <br>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/330547/googlecolab.svg" alt="googlecolabr" width="80" height="80" title="Googlecolab" />
+      <br>
+    </td>
+   
+  </tr>
+  
 </table>
 
 ## Github stats 📊
