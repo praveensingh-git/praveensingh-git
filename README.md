@@ -138,7 +138,13 @@
       <img src="https://www.svgrepo.com/show/330547/googlecolab.svg" alt="googlecolabr" width="80" height="80" title="Googlecolab" />
       <br>
     </td>
-   
+    
+  </tr>
+  <tr>
+   <td align="center" width="96">
+      <img src="https://logodix.com/logo/1287727.png" alt="googlecolabr" width="80" height="80" title="Googlecolab" />
+      <br>
+    </td>
   </tr>
   
 </table>
@@ -175,3 +181,4 @@
 <div align="center">
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="800" height='300' alt="animated hello">
+
