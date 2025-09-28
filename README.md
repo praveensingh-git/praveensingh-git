@@ -19,7 +19,7 @@
 <a href="mailto:praveensuryavanshi.dev@gmail.com" title="Mail to me">
   <img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000" width="80" height="80" alt="Gmail Icon">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 </div>
