@@ -142,7 +142,11 @@
   </tr>
   <tr>
    <td align="center" width="96">
-      <img src="https://logodix.com/logo/1287727.png" alt="googlecolabr" width="80" height="80" title="Googlecolab" />
+      <img src="https://logodix.com/logo/1287727.png" alt="kali" width="80" height="80" title="kali" />
+      <br>
+    </td>
+   <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/374122/terraform.svg" alt="Terraform" width="80" height="80" title="Terraform" />
       <br>
     </td>
   </tr>
